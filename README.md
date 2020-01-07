@@ -1,5 +1,5 @@
 # Gke-App-Terraform
-Script que ensina basicamente como implantar um aplicativo com Terraform no GKE
+Steps para automatizar o build do projeto através do Cloud Build.
 
 # Fonte dos primeiros passos.
    https://cloud.google.com/solutions/managing-infrastructure-as-code?hl=pt-br
