@@ -1,5 +1,5 @@
-# Gke-App-Terraform
-Steps para automatizar o build do projeto através do Cloud Build.
+# GcP-BuildApp-Github
+Steps para automatizar o build do projeto através do Google Cloud Build .
 
 # Fonte dos primeiros passos.
    https://cloud.google.com/solutions/managing-infrastructure-as-code?hl=pt-br
